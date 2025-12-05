@@ -1,0 +1,50 @@
+name: lewis.kunde
+description: bandwidth-monitored
+version: 0.0.1
+author: oeesqxaw.7zsrmmdb@rkmufjv2.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: lewiskunde
+  parentArtefactID: team1764973079590
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:18:36'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:18:38'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:18:38.210106Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1956236799'
+  createdAt: '2025-12-05T22:18:38.210106Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
